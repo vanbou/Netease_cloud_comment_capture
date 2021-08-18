@@ -3,4 +3,4 @@ It realizes the comment capture of Netease cloud music, including popular commen
 
 
 ![image](https://github.com/vanbou/Netease_cloud_comment_capture/blob/master/img1.png)
-![image](https://github.com/vanbou/Netease_cloud_comment_capture/blob/master/img1.png)
+![image](https://github.com/vanbou/Netease_cloud_comment_capture/blob/master/img2.png)
