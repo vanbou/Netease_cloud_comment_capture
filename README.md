@@ -2,10 +2,10 @@
 It realizes the comment capture of Netease cloud music, including popular comments and the latest comments, and designs the GUI interface
 
 # Requirements
-Python3
-pycryptodome
-requests
-tkinter
+Python3  
+pycryptodome  
+requests  
+tkinter  
 
 
 
